@@ -97,6 +97,11 @@ h2, h3, h4 {
     color: var(--color-bg-warning);
 }
 
+/* Error highlighting */
+.Error {
+    color: #ff505e !important;
+}
+
 .MessageBox {
     background: var(--color-bg-message);
 }
