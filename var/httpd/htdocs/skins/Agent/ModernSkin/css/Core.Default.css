@@ -593,6 +593,7 @@ span.Pagination a:hover:not(.Selected) {
 
 .PreviewContainer .Preview {
     border: 1px solid var(--color-bg-field) !important;
+    margin: 20px auto !important;
 }
 
 .PreviewContainer .Preview .Error i, .PreviewContainer .Preview .Hint i {
